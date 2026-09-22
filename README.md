@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to display hierarchical data using the Syncfusion Blazor DataGrid. The implementation presents related records in a parent-child grid structure where child grids can be displayed or hidden by using the expand and collapse functionality. This approach helps organize related datasets and allows users to navigate hierarchical information without leaving the current grid view.
+This sample demonstrates how to display hierarchical data using the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The implementation presents related records in a parent-child grid structure where child grids can be displayed or hidden by using the expand and collapse functionality. This approach helps organize related datasets and allows users to navigate hierarchical information without leaving the current grid view.
 
 ## Key Features
 
